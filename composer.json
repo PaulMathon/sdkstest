@@ -1,0 +1,15 @@
+{
+    "name": "p.mathon/sdktest",
+    "autoload": {
+        "psr-4": {
+            "PMathon\\Sdktest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paul-mathon",
+            "email": "p.mathon@criteo.com"
+        }
+    ],
+    "require": {}
+}
