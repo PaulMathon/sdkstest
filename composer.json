@@ -1,5 +1,6 @@
 {
-    "name": "p.mathon/sdktest",
+    "name": "p.mathon/sdktest-new",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
             "PMathon\\Sdktest\\": "src/"
