@@ -1,6 +1,6 @@
 {
     "name": "p.mathon/sdktest",
-    "version": "2022.01.1.20211124.1",
+    "version": "2022.01.1.20211124",
     "autoload": {
         "psr-4": {
             "PMathon\\Sdktest\\": "src/"
